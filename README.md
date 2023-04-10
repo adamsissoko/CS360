@@ -1,4 +1,4 @@
-##Summary:
+** Summary:
 The app allows users to log in, create new accounts, and access a persistent SQLLite database to store and manage inventory items, event details, or daily weight. The app also prompts users for permission to send SMS notifications for low inventory, upcoming events, or reaching a goal weight. The goal of the app is to address the user's need for a convenient way to manage their inventory, events, and personal goals while also providing timely notifications.
 
 Screens and Features:
