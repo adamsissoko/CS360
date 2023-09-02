@@ -1,11 +1,12 @@
-<h1>CS 360 - Mobile Architecture and Programming</h1>
+<h1>Mobile Architecture and Programming</h1>
 <h2>By Adam Sissoko<br>
 Southern New Hampshire University</h2>
 
 <h3>Project Overview</h3>
 <p>
-This repository is the consolidated collection of all projects and assignments undertaken as part of the CS 360 Mobile Architecture and Programming course at Southern New Hampshire University (SNHU). The ultimate deliverable of this course was the development of an event tracking Android application. This application was engineered using a variety of Android frameworks, APIs, and subsystems to create a robust and user-friendly experience.
+Welcome to this repository, a showcase of diverse mobile architecture and programming projects! The highlight is an Android-based event tracking application designed to help users manage their tasks and schedules. This application utilizes various Android frameworks, APIs, and subsystems to offer a powerful yet user-friendly experience.
 </p>
+
 
 <h3>Core Technologies and Libraries</h3>
 <ul>
