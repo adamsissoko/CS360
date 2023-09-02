@@ -38,6 +38,13 @@ The application's primary functionalities are broken down as follows:
   </li>
 </ul>
 
+<h3>Application Interface</h3>
+<p>
+To provide you with a tangible idea of what the application interface looks like, below is a screenshot from the final version of the project. 
+</p>
+<img src="https://github.com/adamsissoko/CS360/blob/main/Apps/final_project_cs_360.png" alt="[screenshot of the final project]" style="width:810px;height:333px;">
+
+
 <h3>Repository Structure and Additional Documentation</h3>
 <p>
 For those interested in diving deeper into the codebase, the complete set of project files can be accessed in the <a href="https://github.com/adamsissoko/CS360/tree/main/Apps/CS%20360%20Final%20Project" target="_blank">Final Project folder</a>.
