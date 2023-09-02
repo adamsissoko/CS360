@@ -47,7 +47,7 @@ To provide you with a tangible idea of what the application interface looks like
 
 <h3>Repository Structure and Additional Documentation</h3>
 <p>
-For those interested in diving deeper into the codebase, the complete set of project files can be accessed in the <a href="https://github.com/adamsissoko/CS360/tree/main/Apps/CS%20360%20Final%20Project" target="_blank">Final Project folder</a>.
+For those interested in diving deeper into the codebase, the complete set of project files can be accessed in the <a href="https://github.com/adamsissoko/CS360/tree/main/Apps/CS%20360%20Final%20Project" target="_blank">Final Project Folder</a>.
 </p>
 <p>
 Supplementary materials include:
