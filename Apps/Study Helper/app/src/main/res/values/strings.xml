@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Study Helper</string>
+    <string name="question_label">Q</string>
+    <string name="question_hint">Question</string>
+    <string name="answer_label">A</string>
+    <string name="answer_hint">Answer</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="hide_answer">Hide Answer</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="question_deleted">Question deleted.</string>
+    <string name="question_added">Question added.</string>
+    <string name="question_updated">Question updated.</string>
+    <string name="create">Create</string>
+    <string name="subject">New subject?</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_question">Update Question</string>
+    <string name="add_question">Add Question</string>
+    <string name="no_questions">No questions exist for this subject.</string>
+    <string name="subject_exists">The subject "%1$s" already exists.</string>
+    <string name="question_number">%1$s (%2$d of %3$d)</string>
+    <string name="import_questions">Import</string>
+    <string name="select_subject">Select a subject:</string>
+    <string name="undo">Undo</string>
+    <string name="settings">Settings</string>
+
+</resources>
