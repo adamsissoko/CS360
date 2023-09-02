@@ -1,0 +1,39 @@
+<resources>
+    <style name="Theme.TheBandDatabase" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:buttonStyle">@style/buttonStyle</item>
+    </style>
+
+    <style name="bandListName">
+        <item name="android:textSize">@dimen/list_text_size</item>
+        <item name="android:padding">@dimen/list_padding</item>
+    </style>
+
+    <style name="bandName">
+        <item name="android:textSize">@dimen/detail_band_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">@dimen/detail_padding</item>
+        <item name="android:paddingRight">@dimen/detail_padding</item>
+        <item name="android:paddingTop">@dimen/detail_padding</item>
+    </style>
+
+    <style name="bandDescription">
+        <item name="android:textSize">@dimen/detail_description_text_size</item>
+        <item name="android:paddingLeft">@dimen/detail_padding</item>
+        <item name="android:paddingRight">@dimen/detail_padding</item>
+        <item name="android:paddingTop">@dimen/detail_padding</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width_material</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">@dimen/list_text_size</item>
+    </style>
+</resources>
