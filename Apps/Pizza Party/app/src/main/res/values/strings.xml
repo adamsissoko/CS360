@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizza Party</string>
+    <string name="total_pizzas">Total pizzas: %d</string>
+    <string name="new_total_pizzas">New total pizzas: %d</string>
+    <string name="error">Error!</string>
+    <string name="enter_text">No text entered!</string>
+</resources>
