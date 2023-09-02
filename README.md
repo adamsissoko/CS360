@@ -53,8 +53,7 @@ For those interested in diving deeper into the codebase, the complete set of pro
 Supplementary materials include:
 </p>
 <ul>
-  <li><a href="https://github.com/adamsissoko/CS360/blob/main/Apps/CS%20360%20Final%20Project/2-3%20Milestone%20-%20Goals%20and%20Users.docx.pdf" target="_blank">User Requirements Document</a> - An initial analysis of user needs and expectations.</li>
-  <li><a href="https://github.com/adamsissoko/CS360/blob/main/Apps/CS%20360%20Final%20Project/3-3%20Project%20One%20-%20App%20Proposal.docx.pdf" target="_blank">Project Proposal</a> - The original project design and scope, including the various phases of development.</li>
+  <li><a href="https://github.com/adamsissoko/CS360/blob/main/Apps/CS%20360%20Final%20Project/Final%20Project%20Requirements.pdf" target="_blank">User Requirements Document</a> - An initial analysis of user needs and expectations.</li>
 </ul>
 
 <hr>
