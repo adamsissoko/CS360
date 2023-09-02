@@ -1,0 +1,20 @@
+<resources>
+    <string name="register">Register</string>
+    <string name="choose_username">Choose Username</string>
+    <string name="choose_password">Choose Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="register_btn">Register</string>
+    <string name="existing_user">Existing user?</string>
+    <string name="logo">Logo</string>
+    <string name="floating_action_button">Floating Action Button</string>
+    <string name="event_tracker">Event Tracker</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="request_permissions">Request Permissions</string>
+    <string name="_id">1</string>
+    <string name="row_title">Title</string>
+    <string name="row_description_of_event">Description of event</string>
+    <string name="row_date">July 30, 2022</string>
+    <string name="row_time">8:30 AM</string>
+</resources>

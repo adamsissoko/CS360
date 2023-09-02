@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/storm"
+
+    android:id="@+id/mainLayout">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="12dp">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="12dp"
+            android:background="@color/white"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/cal_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_cal"
+                app:flow_verticalAlign="center"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/event_title"
+                app:tint="@color/gold"
+                tools:ignore="ContentDescription" />
+
+
+            <TextView
+                android:id="@+id/event_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_id"
+                android:textColor="@color/black"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                android:visibility="invisible"
+
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+
+
+                />
+
+            <TextView
+                android:id="@+id/event_title"
+                android:layout_width="181dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="@string/row_title"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@id/cal_icon"
+                app:layout_constraintTop_toTopOf="@id/cal_icon" />
+
+            <TextView
+                android:id="@+id/event_description"
+                android:layout_width="309dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="@string/row_description_of_event"
+                android:textAlignment="textStart"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/event_title"
+                app:layout_constraintTop_toBottomOf="@+id/event_title" />
+
+            <TextView
+                android:id="@+id/date_to_fire"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/row_date"
+                android:textSize="16sp"
+
+                app:layout_constraintEnd_toStartOf="@id/edit_button"
+                app:layout_constraintTop_toTopOf="@+id/event_title"
+
+                />
+
+            <TextView
+                android:id="@+id/time_to_fire"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/row_time"
+                android:textSize="16sp"
+
+                app:layout_constraintEnd_toStartOf="@id/edit_button"
+                app:layout_constraintTop_toBottomOf="@+id/date_to_fire"
+
+                />
+
+            <ImageButton
+                android:id="@+id/edit_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#00ffffff"
+                android:src="@drawable/ic_edit"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@id/date_to_fire"
+                app:tint="@color/rose"
+                tools:ignore="ContentDescription" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
