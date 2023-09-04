@@ -3,7 +3,7 @@
 
 <h2>Overview of the Project</h2>
 <p>
-Welcome to this repository where we explore the expansive world of mobile architecture and programming, culminating in an event tracking application on the Android platform. This sophisticated application is designed to manage a user’s tasks and commitments through a robust architecture. It embraces various Android APIs, frameworks, and subsystems to provide a seamless and user-friendly interaction, going beyond the rudimentary functionalities usually found in similar applications.
+In this project we explore the expansive world of mobile architecture and programming, culminating in an event tracking application on the Android platform. This sophisticated application is designed to manage a user’s tasks and commitments through a robust architecture. It embraces various Android APIs, frameworks, and subsystems to provide a seamless and user-friendly interaction, going beyond the rudimentary functionalities usually found in similar applications.
 </p>
 
 <h3>Technological Foundations</h3>
