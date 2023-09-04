@@ -1,4 +1,5 @@
-<h1>Mobile Architecture and Programming: A Showcase by Adam Sissoko</h1>
+<h1 align = "center">Mobile Architecture and Programming</h1>
+<h1 align = "center">Adam Sissoko</h1>
 
 <h2>Overview of the Project</h2>
 <p>
